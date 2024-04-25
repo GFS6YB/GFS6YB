@@ -1,38 +1,80 @@
-# Jamshaid
+<h2 align="left">Hi 👋! My Name Is Jamshaid and I'm a DevOps Engineer and Aws Solution Architect.  Currently , I Am Working @ Upwork as a Freelancer.</h2>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGFS6YB%2FGFS6YB&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+###
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linkedin.com/in/jamshaiddaas1667/)
+<img align="right" height="150" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif"  />
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dr.daasbhai@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/GFS6YB#aws)](https://github.com/GFS6YB#aws)
-[![Github](https://img.shields.io/github/followers/GFS6YB?label=Follow&style=social)](https://github.com/GFS6YB)
+###
 
-- 💻 Devops Engineer
-- 🤔Curretnly Learning new Technologies
-- 🌱 Have A strong Command on Aws Cloud
-- 📫 How to reach me: dr.daasbhai@gmail.com
-
-
-### 🖥 Skills
-
-- DevOps 
-- AWS
-- DOCKER
-- KUBERNETES
-- JENKINS
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-DEVOPS-05122A?style=flat-square&logo=DEVOPS&color=353535) ![Bootstrap](https://img.shields.io/badge/-GIT-05122A?style=flat-square&logo=GIT&color=353535) ![Bootstrap](https://img.shields.io/badge/-GITHUB-05122A?style=flat-square&logo=GITHUB&color=353535) ![Bootstrap](https://img.shields.io/badge/-JENKLINS-05122A?style=flat-square&logo=JENKLINS&color=353535) ![Bootstrap](https://img.shields.io/badge/-ANSIBLE-05122A?style=flat-square&logo=ANSIBLE&color=353535) ![Bootstrap](https://img.shields.io/badge/-TERRAFORM-05122A?style=flat-square&logo=TERRAFORM&color=353535) ![Bootstrap](https://img.shields.io/badge/-DOCKER-05122A?style=flat-square&logo=DOCKER&color=353535) ![Bootstrap](https://img.shields.io/badge/-KUBERNETES-05122A?style=flat-square&logo=KUBERNETES&color=353535) ![Bootstrap](https://img.shields.io/badge/-BASH-05122A?style=flat-square&logo=BASH&color=353535) ![Bootstrap](https://img.shields.io/badge/-CCNA-05122A?style=flat-square&logo=CCNA&color=353535)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GFS6YB&show_icons=true&locale=en&layout=compact" alt="GFS6YB" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=GFS6YB&" alt="GFS6YB" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="30" alt="amazondynamodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="30" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" height="30" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="30" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="30" alt="tomcat logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="30" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="30" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" height="30" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="30" alt="oracle logo"  />
 </div>
 
+###
 
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<p align="left">Hello World!!Welcome to my profile!<br>Journey ==> From learning Skill to Freelancing at Linkedin & Upwork<br><br>I am a passionate individual with a strong interest in DevOps and AWS services. First I  completed my comprehensive training in DevOps and AWS basics and then  practicing extensively to hone my skills.<br><br>My Journey into the world of DevOps and AWS began with a desire to understand and implement modern development practices and cloud technologies. I have since gained hands-on experience in various AWS services including Compute (EC2, Lambda, Lightsail, AWS Batch, AWS Elastic Beanstalk), Container Services (ECS, ECR, EKS), Storage (S3, S3 Glacier, EFS, FSx), Databases (RDS, DynamoDB), Networking (VPC, Route 53, API Gateway), and Security Services (IAM, Security Hub, ACM, CloudHSM, Amazon Macie, Amazon Inspector, Amazon GuardDuty, Amazon Cognito, AWS WAF, AWS Firewall Manager etc).<br><br>Additionally, I have developed a strong foundation in DevOps practices, including CI/CD pipelines, Version control with Git and GitHub, Automation with Ansible, Infrastructure as code with Terraform, Containerization with Docker and Kubernetes, and scripting with BASH.<br><br>I am now ready to start my Journey as a Freelance DevOps and AWS specialist, offering my skills and expertise to help businesses optimize their Infrastructure, Automate their processes, and Enhance the Security and Scalability of their Applications.<br><br>As a freelance DevOps and AWS specialist, I offer a Comprehensive Range of services to help you achieve your goals.With expertise in AWS services such as EC2, Lambda, Lightsail, AWS Batch, AWS Elastic Beanstalk, ECS, ECR, EKS, S3, S3 Glacier, EFS, FSx, RDS, DynamoDB, VPC, Route 53, API Gateway, IAM, Security Hub, ACM, CloudHSM, Amazon Macie, Amazon Inspector, Amazon GuardDuty, Amazon Cognito, AWS WAF, and AWS Firewall Manager, as well as strong skills in Docker, Kubernetes, CI/CD, Git, GitHub, Ansible, Terraform, BASH, and Helm, I am committed to helping you succeed. Let's work together to drive innovation and take your projects to the next level</p>
+
+###
 
 
 
